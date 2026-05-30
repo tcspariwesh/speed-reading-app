@@ -22,3 +22,7 @@ npm run dev
 npm run build
 ```
 merge start and pause buttons
+1. ability to change font size and style
+2. support for quiz with missing letters, better through user speech.
+3. highlight text with progress. User can jump to any word and continue from there -DONE
+4. 
